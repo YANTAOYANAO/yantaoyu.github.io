@@ -17,9 +17,24 @@ My research interests revolve around the advancement and enhancement of informat
 - Digital Twin and BIM for ageing bulidings and infrastructures.
 
 ## <span style="color: red;"> Looking for new team members</span>
-I am looking for responsible and motivated Ph.D. students/research assistants/postdocs with backgrounds in Civil Engineering, Construction Management, Mechanical Engineering, Electrical Engineering, Computer Science, Biomechanics, Industial Engineering or other fields. If you are interested, please email me (ceyantao@ust.hk) with your CV. For undergraduate students, remote internships and summer internships are available.
+I am looking for responsible and motivated Ph.D. students/research assistants/postdocs with backgrounds in Civil Engineering, Construction Management, Mechanical Engineering, Electrical Engineering, Computer Science, Biomechanics, Industial Engineering or other fields. 
+If you are interested, please email me (ceyantao@ust.hk) with your CV. 
+For undergraduate students, remote internships and summer internships are available.
 
 ## Recent news
-- **June 27, 2025**: Xinyu published a new paper in *Advanced Engineering Informatics*!
-- **May 15, 2025**: Welcome Dr. Smith as a new postdoc in our lab.
-- **April 10, 2025**: Congratulations to Jane Doe for receiving the Best Paper Award at *Conference XYZ*.
+## Recent News
+
+<div class="news-item">
+  <span class="category research">[Research]</span>
+  <strong>June 27, 2025:</strong> <a href="#">Our new paper was published in <em>Nature</em>!</a>
+</div>
+
+<div class="news-item">
+  <span class="category team">[Team]</span>
+  <strong>May 15, 2025:</strong> <a href="#">Welcome Dr. Smith as a new postdoc in our lab!</a>
+</div>
+
+<div class="news-item">
+  <span class="category award">[Award]</span>
+  <strong>April 10, 2025:</strong> <a href="#">Jane Doe received the Best Paper Award at <em>Conference XYZ</em>!</a>
+</div>
