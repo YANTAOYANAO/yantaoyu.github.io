@@ -16,7 +16,7 @@ My research interests revolve around the advancement and enhancement of informat
 - Construction safety: ergonomic assessment, fatigue assessment;
 - Digital Twin and BIM for ageing bulidings and infrastructures.
 
-## <span style="color: red;"> Looking for new team members</span>
+## <span style="color: #6495ED;"> Looking for new team members</span>
 I am looking for responsible and motivated Ph.D. students/research assistants/postdocs with backgrounds in Civil Engineering, Construction Management, Mechanical Engineering, Electrical Engineering, Computer Science, Biomechanics, Industial Engineering or other fields. 
 If you are interested, please email me (ceyantao@ust.hk) with your CV. 
 For undergraduate students, remote internships and summer internships are available.
