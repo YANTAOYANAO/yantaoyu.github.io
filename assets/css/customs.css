@@ -1,0 +1,38 @@
+/* 新闻容器样式 */
+.news-item {
+  margin-bottom: 15px;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* 分类标签基础样式 */
+.category {
+  display: inline-block;
+  font-size: 0.85rem;
+  font-weight: bold;
+  padding: 2px 8px;
+  border-radius: 4px;
+  color: #fff; /* 白色字体 */
+  margin-right: 10px;
+}
+
+/* 不同类别的颜色 */
+.category.publication {
+  background-color: #007acc; /* 蓝色 */
+}
+
+.category.fund {
+  background-color: #28a745; /* 绿色 */
+}
+
+.category.award {
+  background-color: #ffc107; /* 黄色 */
+}
+
+.category.conference {
+  background-color: #dc3545; /* 红色 */
+}
+
+.category.collaboration {
+  background-color: #6f42c1; /* 紫色 */
+}
