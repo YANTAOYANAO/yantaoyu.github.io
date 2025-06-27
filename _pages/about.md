@@ -22,23 +22,43 @@ For undergraduate students, remote internships and summer internships are availa
 
 ## Recent news
 <div class="news-item">
-  <span class="category publication">Publication</span>
-  <strong>June 27, 2025:</strong> <a href="#">Our new paper was published in <em>Nature</em>!</a>
-</div>
-
-
-
-<div class="news-item">
-  <span class="category publication">Publication</span>
-  <strong>June 27, 2025:</strong> <a href="#">Our new paper was published in <em>Nature</em>!</a>
+  <span class="category fund">Fund</span>
+  June 2025: My research receives General Research Fund from Research Grant Council (Hong Kong).
 </div>
 
 <div class="news-item">
   <span class="category lab">Lab</span>
-  <strong>May 15, 2025:</strong> <a href="#">Welcome Dr. Smith as a new postdoc in our lab!</a>
+  June 2025: Our lab visits the construction sites of Oujia Building at Shenzhen.
+</div>
+
+<div class="news-item">
+  <span class="category publication">Publication</span>
+  June 2025: Our new paper [A vision-based approach to assessing worker ergonomics in low-light construction environments](https://www.sciencedirect.com/science/article/pii/S1474034625003568) is published in Advanced Engineering Informatics! Congrats to Xinyu Chen and Zirui Li!
 </div>
 
 <div class="news-item">
   <span class="category award">Award</span>
-  <strong>April 10, 2025:</strong> <a href="#">Jane Doe received the Best Paper Award at <em>Conference XYZ</em>!</a>
+  May 2025: Our work "GNN Based Multi-stage Automatic Paper Drawing Layering and BIM Reconstruction Method" wins Grand Award at Hong Kong openBIM/openGIS Awards 2025 under Student Research Category! Congrats to Xun Lu!
 </div>
+
+<div class="news-item">
+  <span class="category award">Award</span>
+  May 2025: Our work "BIM to FEM Model Conversion of Low-rise Residential Buildings for Debris Flow Damage Analysis" wins Merit Award at Hong Kong openBIM/openGIS Awards 2025 under Student Research Category! Congrats to Xuhong Huang!
+</div>
+
+<div class="news-item">
+  <span class="category award">Award</span>
+  May 2025: Our work "Scan-to-BIM in Construction Sites Using RGBD Visual SLAM on a Mobile Platform" wins Merit Award at Hong Kong openBIM/openGIS Awards 2025 under Student Research Category! Congrats to Wenyu Li!
+</div>
+
+<div class="news-item">
+  <span class="category award">Award</span>
+  May 2025: Our work on BIM-based sustainalble design of tunnel projects wins the Best Application Paper Award (First Prize) at the NSFC-RGC 2025 Conference! Congrats to Yirui Wang!
+</div>
+
+<div class="news-item">
+  <span class="category award">Award</span>
+  May 2025: Our work on biomechanical analysis for construction workers physical fatigue assessment winsBest Student Paper Award (Second Prize)  at the NSFC-RGC 2025 Conference! Congrats to Minshan Xie!
+</div>
+
+
