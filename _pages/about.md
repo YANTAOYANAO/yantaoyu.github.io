@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Yantao Yu, an Assistant Professor in the Department of Civil and Environmental Engineering at The Hong Kong University of Science and Technology (HKUST) and the director of the [Human-Centered Intelligent Construction Lab (HCIC)](https://ceyantao.people.ust.hk/). I obtained both my bachelors' and master's degeree from Tsinghua Univeristy. Then I received my Ph.D. in Construction Informatics at The Hong Kong Polytechnic University. 
+Yantao Yu
+======
+
+I am an assistant professor in the Department of Civil and Environmental Engineering at The Hong Kong University of Science and Technology (HKUST) and the director of the [Human-Centered Intelligent Construction Lab (HCIC)](https://ceyantao.people.ust.hk/). I obtained both my bachelors' and master's degeree from Tsinghua Univeristy. Then I received my Ph.D. in Construction Informatics at The Hong Kong Polytechnic University. 
 
 My research interests revolve around the advancement and enhancement of information technologies and robotics within the construction field. The primary objective of my research is to enhance the long-term viability of the construction industry in response to global challenges such as an aging population and sluggish productivity. To achieve the goal,  [HCIC Lab](https://ceyantao.people.ust.hk/) utilizes multidisciplinary knowledge and tools from robotics, computer science, and biomechanics. We also explore new avenues of study, focusing on the automatic generation and efficient updating of multi-scale digital twins.
 
