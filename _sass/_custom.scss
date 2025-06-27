@@ -20,21 +20,25 @@
 
 /* 不同类别的颜色 */
 .category.publication {
-  background-color: #007acc; /* 蓝色 */
+  background-color: #D75B4E; /* 红 */
 }
 
 .category.fund {
-  background-color: #28a745; /* 绿色 */
+  background-color: #F7AC53; /*黄 */
 }
 
 .category.award {
-  background-color: #ff7f00; /* 橙色 */
+  background-color: #97D0C5; /* 绿*/
 }
 
 .category.conference {
-  background-color: #dc3545; /* 红色 */
+  background-color: #52AADC; /* 蓝 */
 }
 
-.category.lab {
-  background-color: #6f42c1; /* 紫色 */
+.category.engagement {
+  background-color: #EEB6D4; /* 粉色 */
+
+  .category.lab {
+  background-color: #C7C1DE; /* 紫色 */
+  
 }
