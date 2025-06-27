@@ -21,4 +21,17 @@ If you are interested, please email me (ceyantao@ust.hk) with your CV.
 For undergraduate students, remote internships and summer internships are available.
 
 ## Recent news
-May 2025: Congrats to Chen Xinyu (PhD candidate)!
+<div class="news-item">
+  <span class="category publication">[Publication]</span>
+  <strong>June 27, 2025:</strong> <a href="#">Our new paper was published in <em>Nature</em>!</a>
+</div>
+
+<div class="news-item">
+  <span class="category lab">[Lab]</span>
+  <strong>May 15, 2025:</strong> <a href="#">Welcome Dr. Smith as a new postdoc in our lab!</a>
+</div>
+
+<div class="news-item">
+  <span class="category award">[Award]</span>
+  <strong>April 10, 2025:</strong> <a href="#">Jane Doe received the Best Paper Award at <em>Conference XYZ</em>!</a>
+</div>
