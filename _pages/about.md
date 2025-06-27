@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 I am an assistant professor in the Department of Civil and Environmental Engineering at The Hong Kong University of Science and Technology (HKUST) and the director of the [Human-Centered Intelligent Construction Lab (HCIC)](https://ceyantao.people.ust.hk/). I obtained both my bachelors' and master's degeree from Tsinghua Univeristy. Then I received my Ph.D. in Construction Informatics at The Hong Kong Polytechnic University. 
 
 ## Research insterest
