@@ -23,25 +23,26 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yantao Yu"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistang Professor"
+  location         : "Hong Kong"
+  employer         : "The Hong Kong University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ceyantao@ust.hk" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  # academia         : # URL
+  # arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=DOq4oH8AAAAJ&hl=en&oi=ao"
+  # impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0003-0400-3068"
+  # semantic         : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Yantao-Yu"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57192163569"
 
+<!--
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
@@ -75,6 +76,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+-->
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
