@@ -1,4 +1,24 @@
 ---
+title: "About"
+permalink: /about/
+layout: single
+---
+
+## About Me
+I am **Yantao Yu**, a researcher in **Human-centered Intelligent Construction**.  
+My research interests include:
+- **Construction Robotics**
+- **BIM Reconstruction for Ageing Buildings and Infrastructures**
+- **Construction Safety**
+
+## Education
+- PhD in Construction Informatics, The Hong Kong Polytechnic University, 2020
+- Mphil in Construction Engineering, Tsinghua University, 2017
+- BSc in Construction Engineering, Tsinghua University, 2014
+- Bsc (minor) in Economics, Tsinghua University, 2014
+
+<!--
+---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -54,3 +74,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
