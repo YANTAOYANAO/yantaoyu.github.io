@@ -7,13 +7,15 @@
 
 /* 分类标签基础样式 */
 .category {
-  display: inline-block;
-  font-size: 0.85rem;
-  font-weight: bold;
-  padding: 2px 8px;
-  border-radius: 4px;
-  color: #fff; /* 白色字体 */
-  margin-right: 10px;
+  display: inline-block;        /* 使标签成为内联块元素 */
+  font-size: 0.85rem;           /* 字体大小 */
+  font-weight: bold;            /* 加粗字体 */
+  padding: 2px 8px;             /* 内边距 */
+  border-radius: 4px;           /* 圆角 */
+  color: #fff;                  /* 标签文字颜色 */
+  width: 100px;                 /* 固定宽度，所有标签相同 */
+  text-align: center;           /* 内容居中 */
+  margin-right: 10px;           /* 右侧间距 */
 }
 
 /* 不同类别的颜色 */
