@@ -26,6 +26,13 @@ For undergraduate students, remote internships and summer internships are availa
   <strong>June 27, 2025:</strong> <a href="#">Our new paper was published in <em>Nature</em>!</a>
 </div>
 
+
+
+<div class="news-item">
+  <span class="category publication">Publication</span>
+  <strong>June 27, 2025:</strong> <a href="#">Our new paper was published in <em>Nature</em>!</a>
+</div>
+
 <div class="news-item">
   <span class="category lab">Lab</span>
   <strong>May 15, 2025:</strong> <a href="#">Welcome Dr. Smith as a new postdoc in our lab!</a>
