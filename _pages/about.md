@@ -28,12 +28,12 @@ For undergraduate students, remote internships and summer internships are availa
 
 <div class="news-item">
   <span class="category lab">Lab</span>
-  June 2025: Our lab visits the construction sites of Oujia Building at Shenzhen.
+  June 2025: Our lab visits the construction sites of Oujia Building at Shenzhen. Thanks Yunpeng Wang for coordination.
 </div>
 
 <div class="news-item">
   <span class="category publication">Publication</span>
-  June 2025: Our new paper [A vision-based approach to assessing worker ergonomics in low-light construction environments](https://www.sciencedirect.com/science/article/pii/S1474034625003568) is published in Advanced Engineering Informatics! Congrats to Xinyu Chen and Zirui Li!
+  June 2025: Our new paper "A vision-based approach to assessing worker ergonomics in low-light construction environments" is published in Advanced Engineering Informatics! Congrats to Xinyu Chen and Zirui Li!
 </div>
 
 <div class="news-item">
