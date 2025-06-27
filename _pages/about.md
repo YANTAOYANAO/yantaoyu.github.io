@@ -22,16 +22,16 @@ For undergraduate students, remote internships and summer internships are availa
 
 ## Recent news
 <div class="news-item">
-  <span class="category publication">[Publication]</span>
+  <span class="category publication">Publication</span>
   <strong>June 27, 2025:</strong> <a href="#">Our new paper was published in <em>Nature</em>!</a>
 </div>
 
 <div class="news-item">
-  <span class="category lab">[Lab]</span>
+  <span class="category lab">Lab</span>
   <strong>May 15, 2025:</strong> <a href="#">Welcome Dr. Smith as a new postdoc in our lab!</a>
 </div>
 
 <div class="news-item">
-  <span class="category award">[Award]</span>
+  <span class="category award">Award</span>
   <strong>April 10, 2025:</strong> <a href="#">Jane Doe received the Best Paper Award at <em>Conference XYZ</em>!</a>
 </div>
