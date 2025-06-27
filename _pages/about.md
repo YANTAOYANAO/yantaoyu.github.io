@@ -39,7 +39,7 @@ For undergraduate students, remote internships and summer internships are availa
 <div class="news-item">
   <span class="category award">Award</span>
   May 2025: Our work "GNN Based Multi-stage Automatic Paper Drawing Layering and BIM Reconstruction Method" wins Grand Award at Hong Kong openBIM/openGIS Awards 2025 under Student Research Category! Congrats to Xun Lu!
-</div>
+</div> 
 
 <div class="news-item">
   <span class="category award">Award</span>
