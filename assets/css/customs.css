@@ -26,13 +26,13 @@
 }
 
 .category.award {
-  background-color: #ffc107; /* 黄色 */
+  background-color: #ff7f00; /* 橙色 */
 }
 
 .category.conference {
   background-color: #dc3545; /* 红色 */
 }
 
-.category.collaboration {
+.category.lab {
   background-color: #6f42c1; /* 紫色 */
 }
