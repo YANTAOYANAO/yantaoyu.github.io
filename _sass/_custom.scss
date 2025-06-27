@@ -1,0 +1,40 @@
+/* 新闻容器样式 */
+.news-item {
+  margin-bottom: 15px;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* 分类标签基础样式 */
+.category {
+  display: inline-block;        /* 使标签成为内联块元素 */
+  font-size: 0.85rem;           /* 字体大小 */
+  font-weight: bold;            /* 加粗字体 */
+  padding: 2px 8px;             /* 内边距 */
+  border-radius: 4px;           /* 圆角 */
+  color: #fff;                  /* 标签文字颜色 */
+  width: 100px;                 /* 固定宽度，所有标签相同 */
+  text-align: center;           /* 内容居中 */
+  margin-right: 10px;           /* 右侧间距 */
+}
+
+/* 不同类别的颜色 */
+.category.publication {
+  background-color: #007acc; /* 蓝色 */
+}
+
+.category.fund {
+  background-color: #28a745; /* 绿色 */
+}
+
+.category.award {
+  background-color: #ff7f00; /* 橙色 */
+}
+
+.category.conference {
+  background-color: #dc3545; /* 红色 */
+}
+
+.category.lab {
+  background-color: #6f42c1; /* 紫色 */
+}
